@@ -25,7 +25,10 @@ traceNr = 18
 inName = "--testpulse--autosave--segments--"
 
 
-inDir = "/Users/Lennard/Bachelor_Thesis_LF/BA_Lennard_Franz/cs137-longzylinder/"
+#inDir = "/Users/Lennard/Bachelor_Thesis_LF/BA_Lennard_Franz/cs137-longzylinder/"
+
+inDir = "cs137-longzylinder/"
+
 
 #inDir = "/Users/Lennard/desktop/osci/lennard/segment-flat-CeBr-CS137/"
 #inDir = "/Users/Lennard/desktop/osci/lennard/segment-CeBr-cs137/"
