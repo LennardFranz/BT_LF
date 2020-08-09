@@ -10,7 +10,7 @@ cmd_subfolder = os.path.realpath(os.path.abspath(os.path.join(os.path.split(insp
 if cmd_subfolder not in sys.path:
   sys.path.insert(0, cmd_subfolder)
 
-from TLeCroy import *   # lecroy.py 
+from TLeCroy import *
 
 # --------------------------------
 # constants to be set by the user
